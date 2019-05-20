@@ -1,4 +1,5 @@
-void test 
+﻿void test 
 {
-	printf("tstststest")
+	printf("tstststest ")
 }
+ばなな
